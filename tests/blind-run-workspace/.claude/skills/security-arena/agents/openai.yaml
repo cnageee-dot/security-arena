@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Arena"
+  short_description: "Sequential Red/Blue/Judge security audit"
+  default_prompt: "Use $security-arena to run a Red Team review of this project in read-only mode."

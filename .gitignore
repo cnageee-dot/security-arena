@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+.venv/
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Local credentials
+*.p12
+*.pfx
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+/tests/results/experiment-reports.zip
